@@ -34,8 +34,7 @@ This project is a Retrieval-Augmented Generation (RAG) assistant for a Coursera 
 
 1. **Clone the repository**  
    ```sh
-   git clone <>
-   cd <>
+   git clone <https://github.com/qsum99/RAG-proget.git>
    ```
 
 2. **Install dependencies**  
@@ -101,3 +100,4 @@ MIT License
 
 **Contributors:**  
 - Someshwar Kumbar
+
